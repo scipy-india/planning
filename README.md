@@ -26,3 +26,10 @@ If you are a volunteer member of the SciPy India community, you may be invited t
 7. Regularly review and update issues to ensure they are still relevant and accurate and to keep the community informed of the progress made.
 8. If you have any questions, suggestions for improvement, or need help using this repository, reach out to the SciPy India community on Zulip in a new thread.
 
+## Code of Conduct
+
+All conversations and interactions in this repository are governed by the [SciPy India Code of Conduct](https://scipy-india.github.io/coc.html). Please read and adhere to the code of conduct to ensure a positive and inclusive environment for all community members.
+
+## License
+
+This document is licensed under the public domain, with no restrictions on its use or distribution according to [CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/). There is no warranty associated with this document, and it is provided "as is", without any guarantees or conditions of any kind, not even the implied warranties of merchantability or fitness for a particular purpose.
